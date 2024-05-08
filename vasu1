@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vasudevan's Profile</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Vasudevan's Profile</h1>
+    </header>
+    <section class="main-content">
+      <div class="profile">
+        <div class="profile-pic">
+          <img src="path/to/your/display-picture.jpg" alt="Profile Picture">
+        </div>
+        <div class="profile-info">
+          <h2>About Me</h2>
+          <p>Hello, I'm Vasudevan. I'm passionate about Blender and Unreal Engine. I love creating stunning 3D graphics and immersive experiences.</p>
+        </div>
+      </div>
+      <div class="skills">
+        <h2>My Skills</h2>
+        <ul>
+          <li>Blender</li>
+          <li>Unreal Engine</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+        </ul>
+      </div>
+    </section>
+    <footer>
+      <p>Contact me: vasudevan@example.com</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
